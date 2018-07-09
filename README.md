@@ -83,6 +83,7 @@ Content Management System Vulnerability Hunter
 + **Anka9080**(sina weibo <a href="http://weibo.com/anka9080">@Anka9080</a>)
 +  **sie504** 
 +  **Bearcat**
++ **d_infinite**
 
 ### 免责说明
 
