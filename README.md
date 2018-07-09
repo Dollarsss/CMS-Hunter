@@ -72,6 +72,10 @@ Content Management System Vulnerability Hunter
 - [CVE-2017-3506 & CVE-2017-10271 RCE](https://github.com/SecWiki/CMS-Hunter/tree/master/WebLogic/CVE-2017-3506%20%26%20CVE-2017-10271)
 - [CVE-2018-2628](https://github.com/SecWiki/CMS-Hunter/tree/master/WebLogic/CVE-2018-2628)
 
+#### HDWiki
+
+- [HDWiki 6.0 二次注入](http://www.freebuf.com/vuls/175911.html)
+
 
 ### 项目维护
 
