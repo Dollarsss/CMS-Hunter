@@ -76,6 +76,10 @@ Content Management System Vulnerability Hunter
 
 - [HDWiki 6.0 二次注入](http://www.freebuf.com/vuls/175911.html)
 
+#### PHPMyAdmin
+
+- [PHPMyAdmin 4.8.0 ~ 4.8.1 Remote Code Execution](https://medium.com/@happyholic1203/phpmyadmin-4-8-0-4-8-1-remote-code-execution-257bcc146f8e)
+
 
 ### 项目维护
 
