@@ -80,6 +80,11 @@ Content Management System Vulnerability Hunter
 
 - [PHPMyAdmin 4.8.0 ~ 4.8.1 Remote Code Execution](https://medium.com/@happyholic1203/phpmyadmin-4-8-0-4-8-1-remote-code-execution-257bcc146f8e)
 
+#### Seacms
+- [Seacms后台getshell分析](https://www.anquanke.com/post/id/152764)
+- [Seacms v6.61 审计深入思考](https://www.anquanke.com/post/id/153402)
+
+
 
 ### 项目维护
 
